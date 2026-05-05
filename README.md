@@ -1,6 +1,4 @@
-# Task Manager Pro v2.0
-
-*** with FastAPI, JWT Authentication, SQLAlchemy, PostgreSQL/SQLite, and comprehenAdvanced Task Management System*sive security features.
+with FastAPI, JWT Authentication, SQLAlchemy, PostgreSQL/SQLite, and comprehenAdvanced Task Management System*sive security features.
 
 ## 🎯 Features
 
